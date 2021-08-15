@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal {
     font-size: 16px;
-    background:url(../img/capa\ viúva\ negra.png);
+    background:url(../img/Filmes/capa.png);
 
     height: 400px;
     background-size: cover;
@@ -65,7 +65,7 @@ header nav a:hover{
 /*serie principal*/
 .serie-principal {
     font-size: 16px;
-    background:url(../img/Series/capa\ loki.png);
+    background:url(../img/series/capa.png);
 
     height: 400px;
     background-size: cover;
@@ -105,7 +105,7 @@ header nav a:hover{
 /*Inicio*/
 .inicio {
     font-size: 16px;
-    background:url(../img/Inicio/Capa\ Inicio.jpg);
+    background:url(../img/Inicio/Capa.jpg);
 
     height: 400px;
     background-size: cover;
